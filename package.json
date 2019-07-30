@@ -1,0 +1,22 @@
+{
+    "name": "broom-filter-exp",
+    "version": "0.10.4",
+    "description": "",
+    "main": "dist/index.js",
+    "types": "src/index.ts",
+    "scripts": {},
+    "keywords": [],
+    "author": "",
+    "dependencies": {
+        "uuid": "^3.3.2",
+        "mongodb": "^3.2.7",
+        "string-random": "https://github.com/maichong/string-random"
+    },
+    "devDependencies": {
+        "@types/mongodb": "^3.1.28",
+        "@types/node": "^8.10.48",
+        "@types/uuid": "^3.4.4",
+        "ts-node": "^7.0.0",
+        "typescript": "^3.5.1"
+    }
+}
